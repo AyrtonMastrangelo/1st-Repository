@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meteoro031
+- 👋 Hi, I’m Ayrton or @Meteoro031
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning Python, SQL, Matlab, and others...
 - 💞️ I’m looking to collaborate on all the things I'm interested
